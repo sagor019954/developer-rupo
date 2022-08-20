@@ -1,0 +1,43 @@
+body {
+    font-family: 'Poppins', sans-serif
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.hello {
+    color: orange;
+}
+
+.first-page {
+    display: flex;
+}
+
+.half-wight {
+    width: 50%;
+    padding-left: 25px;
+}
+
+.half-wight img {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.first-button {
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 30px;
+    border-radius: 5px;
+
+}
+
+.dream-big {
+    margin-top: 100px;
+}
+
+.experience {
+    box-shadow: 10px 5px 5px rgb(163, 156, 156);
+    margin: 50px;
+    padding: 20px;
+}
